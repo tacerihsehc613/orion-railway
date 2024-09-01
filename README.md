@@ -1,4 +1,10 @@
-# xeus-python + JupyterLite demo
+# Voila deployed on Railway
+
+## A chatbot using the GPT4ALL API server and Jupyterlite
+
+https://orion-railway-production.up.railway.app
+
+## xeus-python + JupyterLite demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
