@@ -6,3 +6,20 @@ dependencies:
   - python=3.11
   - xeus-python
   - ipycanvas
+  - bqplot
+  - ipywidgets
+  - pandas
+  - numpy
+  - urllib3
+  - idna
+  - certifi
+  - charset-normalizer
+  - blinker
+  - pip
+  - pip: 
+    - js
+    - requests
+    - jupyter_server
+    - jupyter_core
+    - voila
+    - voila-material
